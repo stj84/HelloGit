@@ -11,5 +11,9 @@ public class helloApplication2 {
 
 
         System.out.println("test");
+
+        System.out.println("hotfix");
+        System.out.println("hotfix");
+        System.out.println("hotfix");
     }
 }
