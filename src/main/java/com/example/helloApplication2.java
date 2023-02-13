@@ -16,6 +16,6 @@ public class helloApplication2 {
         System.out.println("hotfix21111");
         System.out.println("hotfix2434343");
 
-        System.out.println("push to github");
+        System.out.println("push to github ok");
     }
 }
