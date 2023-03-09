@@ -14,6 +14,12 @@ public class helloApplication2 {
 
         System.out.println("hotfix");
         System.out.println("hotfix");
-        System.out.println("3423423423423424233333333333333333333333333333333333");
+        System.out.println("hotfix21111");
+        System.out.println("hotfix2434343");
+
+        System.out.println("push to github ok");
+
+        System.out.println("update for gitee");
+
     }
 }
